@@ -1,0 +1,32 @@
+img{
+    width: 200px;
+    height: 200px;
+     border-radius: 80% ;
+    margin-left: 40%;
+}
+
+table,th,td{
+    border-collapse: collapse;
+    border: 2px solid black;
+    padding: 3px;
+    
+}
+table{
+    width: 80%;
+}
+
+th{
+    text-align: left;
+}
+
+a {
+    color:red;
+    text-decoration: underline;
+    background-color: transparent;
+  
+}
+a:active{
+    color: blueviolet;
+}
+
+

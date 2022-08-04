@@ -1,0 +1,59 @@
+p{
+	color: green;
+}
+
+body{
+	background: cyan;
+	color: white;
+}
+
+h1{
+	font-size: 24px;
+}
+
+ul{
+	list-style: square;
+	line-height: 20px;
+}
+
+a {
+	color: yellow;
+	text-decoration: none;
+}
+
+#113{
+	background: hotpink;
+}
+
+p > select {
+	color: yellow;
+}
+
+input [type = text]{
+	background: burlywood;
+	border: 1px solid grey;
+}
+
+input[type = submit]{
+	padding:  5px 15px;
+}
+
+input[type = radio]{
+	margin-right: 5px;
+}
+
+a:hover {
+	color: darkred;
+}
+
+#113 li:hover{
+	color: lightblue;
+}
+
+a {
+	color: darkred;
+}
+
+a:visited {
+	color: blueviolet;
+}
